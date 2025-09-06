@@ -1,0 +1,106 @@
+Ingredient,Category,Frequency,Relevance
+cajun spice mix,Additive,1,1.0
+candy sugar,Additive,1,1.0
+castor sugar,Additive,1,1.0
+citric acid crystals,Additive,1,1.0
+cold water,Additive,1,1.0
+bagel,Bakery,1,1.0
+bread crutons,Bakery,1,1.0
+bunch arugula leaves,Bakery,1,1.0
+classic alfredo pasta sauce,Bakery,1,1.0
+crusty bread log,Bakery,1,1.0
+arabic,Beverage,1,1.0
+big spoon black urad dal,Beverage,1,1.0
+green food colour,Beverage,1,1.0
+tablespoons green moong sprouts,Beverage,1,1.0
+tablespoons tea monk bodh second flush black tea,Beverage,1,1.0
+ada,Beverage Alcoholic,1,1.0
+butterscotch chips,Beverage Alcoholic,1,1.0
+chinese rice wine,Beverage Alcoholic,1,1.0
+colostrum,Beverage Alcoholic,1,1.0
+dark rum,Beverage Alcoholic,1,1.0
+as much as rye,Cereal,1,1.0
+as per taste rye,Cereal,1,1.0
+barley flour,Cereal,1,1.0
+brown rice flakes,Cereal,1,1.0
+crush gram flour,Cereal,1,1.0
+baileys irish cream,Dairy,1,1.0
+bisi bele bhat spice powder,Dairy,1,1.0
+brie cheese,Dairy,1,1.0
+byadagi chilli powder,Dairy,1,1.0
+cheese cubes,Dairy,1,1.0
+adobo sauce,Dish,1,1.0
+chai masala,Dish,1,1.0
+chocolate cake,Dish,1,1.0
+garam masala,Dish,1,1.0
+gulab jamun mix,Dish,1,1.0
+chilli oil,Essential Oil,1,1.0
+kenua,Essential Oil,1,1.0
+peel,Essential Oil,1,1.0
+stalk lemon grass,Essential Oil,1,1.0
+stalks lemon grass,Essential Oil,1,1.0
+gram carp fish,Fish,1,1.0
+gram fish,Fish,1,1.0
+herring fish steaks,Fish,1,1.0
+lady fish,Fish,1,1.0
+pabda fish,Fish,1,1.0
+fresh jasmine buds,Flower,1,1.0
+tablespoons rose syrup,Flower,1,1.0
+teaspoons rose water,Flower,1,1.0
+tablespoons dried rose petals,Flower,2,0.5
+to sunflower oil,Flower,2,0.5
+apple juice,Fruit,1,1.0
+apple vodka,Fruit,1,1.0
+as per taste tamarind paste,Fruit,1,1.0
+banana flower,Fruit,1,1.0
+black raisins,Fruit,1,1.0
+gm button mushrooms,Fungus,1,1.0
+tablespoons active dry yeast,Fungus,1,1.0
+to button mushrooms,Fungus,1,1.0
+button mushroom,Fungus,2,0.5
+portobello mushrooms,Fungus,2,0.5
+amaranth leaves,Herb,1,1.0
+basil,Herb,1,1.0
+basil powder,Herb,1,1.0
+cast curry leaves,Herb,1,1.0
+chivda,Herb,1,1.0
+baked beans,Legume,1,1.0
+bean paste,Legume,1,1.0
+bengal gram lentils,Legume,1,1.0
+black beans,Legume,1,1.0
+canned beans,Legume,1,1.0
+big spoon oil,Maize,1,1.0
+corn flakes,Maize,1,1.0
+corn syrup,Maize,1,1.0
+dry corn kernals,Maize,1,1.0
+few whole black peppercorns,Maize,1,1.0
+chicken ham,Meat,1,1.0
+chicken masala,Meat,1,1.0
+chicken thigh,Meat,1,1.0
+egg noodles,Meat,1,1.0
+flaxmeal egg replacer,Meat,1,1.0
+almond oil,Nuts & Seed,1,1.0
+cashew,Nuts & Seed,1,1.0
+few cashew nuts,Nuts & Seed,1,1.0
+few roasted peanuts,Nuts & Seed,1,1.0
+hazelnut meal,Nuts & Seed,1,1.0
+assam tea leaves,Plant,1,1.0
+chocolate bar,Plant,1,1.0
+chocolate wafers,Plant,1,1.0
+gram chocolate chips,Plant,1,1.0
+gram extra virgin olive oil,Plant,1,1.0
+clamps,Seafood,1,1.0
+clams,Seafood,1,1.0
+crab,Seafood,1,1.0
+crab meat,Seafood,1,1.0
+crabs,Seafood,1,1.0
+a pinch kashmiri red chilli powder,Spice,1,1.0
+as per taste red chili powder,Spice,1,1.0
+big kashmiri red chilli,Spice,1,1.0
+black cumin,Spice,1,1.0
+cardamom crush,Spice,1,1.0
+arrowroot flour,Vegetable,1,1.0
+aubergine,Vegetable,1,1.0
+brussel sprouts,Vegetable,1,1.0
+cabbage leaves,Vegetable,1,1.0
+cauliflower leaves,Vegetable,1,1.0
